@@ -1,5 +1,4 @@
 # Part of the course on Hyperledger Fabric
-http://www.ACloudFan.com
 https://hyperledger.github.io/composer/installing/installing-prereqs#ubuntu
 
 Vagrant commands
